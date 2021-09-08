@@ -1,2 +1,3 @@
 # Omaren.github.id
-Web Programing Omaren
+Web Programing Sistem Informasi Polnustar
+Cara Menjadi Distributpr
